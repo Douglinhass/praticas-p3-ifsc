@@ -1,0 +1,19 @@
+         Lista 03 de exercicios, modulo 2
+
+1- São palavras muito parecidas, enquanto a classe se define como uma forma de criar um tipo de dado próprio, o objeto é a variável que a classe armazena. Mas as classes podem ter métodos, variáveis, atributos e constantes.
+
+2- Instanciar seria uma maneira de criar uma variável de uma classe.
+
+3- É possível sim, o paradigma de orientação pode ser utilizado em linguagem Python, PHP, C#, Perl, TypeScript e C++, a única diferença se caracteriza por ser obrigatório ou não programar em OO.
+
+4- São aquelas linguagens de programação no qual suporta orientação a objetos, mas que não te obrigam necessariamente a programar dessa forma.
+
+5- Esse paradigma é uma forma de aproximar o mundo real com o virtual, tornando as coisas abstratas e assim servindo como solução para problemas do mundo da tecnologia.
+
+6. Atributo seria as variáveis da classe, tendo modificadores de acesso.
+
+7. Modificadores se referem ao nível de visibilidade de acesso a classes e membros de uma classe.
+
+8. A definição dessa palavra descreve um comportamento errado da programação agindo com má fé quando se tem código com valores fixos, pois essa alteração necessita de uma análise e manutenção do sistema.
+
+
