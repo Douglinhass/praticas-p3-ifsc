@@ -3,6 +3,7 @@ package ifsc;
 public class Veiculo {
 	
 	    private String nome;
+	
 	    public String getNome() {
 			return nome;
 		}
@@ -20,8 +21,11 @@ public class Veiculo {
 		}
 
 		private Integer ano;
+	
 	    private Integer numeroRodas;
+	
 	    private String fabricante;
+	
 	    private String cor;
 	    
 	    public Integer getNumeroRodas() {
